@@ -8,4 +8,4 @@ Output: Softmax for 16 classes
 
 Letters (Classes): І, Ї, А, В, Д, И, К, Л, М, Н, О, Р, С, Т, У, Ю.
 
-Note: Dataset is not attached.
+Note: Dataset and trained models are not attached.
