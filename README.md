@@ -1,2 +1,11 @@
 # Sign_Language_Detection
-Ukrainian Sign Language gestures detection from video using Deep Learning (Tensorflow Keras)
+Ukrainian Sign Language gestures detection from video using Deep Learning (Tensorflow Keras) + Real-Time classification interface
+
+The approach used: Time Distributed ResNet50 + 3D-CNN + Fully connected layer
+
+Input shape: (12, 360, 360, 3)
+Output: Softmax for 16 classes
+
+Letters (Classes): І, Ї, А, В, Д, И, К, Л, М, Н, О, Р, С, Т, У, Ю.
+
+Note: Dataset is not attached.
