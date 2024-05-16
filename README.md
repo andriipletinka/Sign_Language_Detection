@@ -13,3 +13,4 @@ Letters (Classes): І, Ї, А, В, Д, И, К, Л, М, Н, О, Р, С, Т, У, �
 Trained model can be downloaded here: https://drive.google.com/file/d/1wdR0deBDdmCuUNQjkH7ezNT4w3luQtFx/view?usp=sharing
 
 Note: Dataset is not attached.
+china
