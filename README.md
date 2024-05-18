@@ -12,6 +12,7 @@ This project focuses on translating Ukrainian Sign Language into text using adva
 - **Participants:** 8 different individuals
 - **Letters:** І, Ї, А, В, Д, И, К, Л, М, Н, О, Р, С, Т, У, Ю.
 - **Conditions:** Various dynamic backgrounds
+- **Note:** Dataset is not attached.
 
 ## Data Processing
 
@@ -49,7 +50,3 @@ This project focuses on translating Ukrainian Sign Language into text using adva
 
 - Mykhailo Humeniuk
 - Andrii Pletinka
-
-
-
-Note: Dataset is not attached.
